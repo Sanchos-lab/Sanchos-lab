@@ -49,24 +49,9 @@
   </a>
 </p>
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanchos-lab&theme=radical&margin-w=10&no-frame=true" alt="trophy" />
-</p>
-
----
-
-### 🎯 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchos-lab&layout=compact&theme=radical)
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanchos-lab&show_icons=true&theme=radical" alt="stats" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanchos-lab&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
