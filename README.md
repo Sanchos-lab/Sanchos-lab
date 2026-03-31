@@ -27,11 +27,11 @@
 
 ### 🛠 Tech Stack & Tools
 
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![Ethereum](https://shields.io)
-![OpenAI](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412990?logo=openai&logoColor=white)
 
 ---
 
