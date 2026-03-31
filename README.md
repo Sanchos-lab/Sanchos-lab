@@ -49,7 +49,7 @@
   </a>
 </p>
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sanchos-lab&theme=radical&margin-w=10&no-frame=true" alt="trophy" />
@@ -69,3 +69,4 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanchos-lab&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
